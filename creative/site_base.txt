@@ -1,0 +1,230 @@
+https://camilacancela.com.br/
+
+
+https://www.fabibrandalisepsi.com/
+
+
+Psicologa  CRP 01/23456
+
+Rosangela Helena Silva dos Santos
+
+Sugestão:
+
+Segue um prompt completo para você usar no Claude (ou outra IA) para criar uma landing page profissional inspirada nos estilos dos sites da Camila Cancela e Fabiane Brandalise, com foco em conversão para atendimento psicológico online. Os dois sites utilizam uma estrutura baseada em acolhimento, confiança, apresentação da profissional, dores do paciente, benefícios da terapia e CTA forte para WhatsApp.
+
+
+Prompt : 
+
+PROMPT PARA O CLAUDE
+
+Crie uma landing page premium, moderna, elegante e altamente persuasiva para uma psicóloga clínica.
+
+Referências visuais
+
+Inspire-se na estrutura, identidade visual, hierarquia de informações e experiência dos sites:
+
+Camila Cancela
+Fabiane Brandalise
+
+Não copie textos nem layout exatamente. Crie um design original, sofisticado e otimizado para conversão.
+
+Dados da profissional
+
+Nome profissional:
+Rosangela Santos
+
+Nome completo:
+Rosangela Helena Silva dos Santos
+
+Registro:
+CRP 01/23456
+
+Atendimento:
+
+Psicoterapia Online
+Adultos
+Atendimento Humanizado
+Sessões particulares
+Objetivo da Landing Page
+
+Converter visitantes em pacientes através do WhatsApp.
+
+A página deve transmitir:
+
+Acolhimento
+Segurança
+Profissionalismo
+Empatia
+Confiança
+Autoridade
+Estilo Visual
+
+Design clean e sofisticado.
+
+Paleta de cores:
+
+Branco
+Bege claro
+Nude
+Verde sálvia
+Tons terrosos suaves
+
+Tipografia elegante e moderna.
+
+Visual leve, feminino e acolhedor.
+
+Utilizar imagens que remetam a:
+
+Bem-estar
+Saúde emocional
+Natureza
+Calma
+Autoconhecimento
+Estrutura da Página
+1. Hero Section
+
+Título principal:
+
+"Você não precisa enfrentar tudo sozinha."
+
+Subtítulo:
+
+"Um espaço seguro para compreender suas emoções, fortalecer sua autoestima e construir uma vida mais leve e equilibrada."
+
+Botões:
+
+Agendar Consulta
+Falar no WhatsApp
+
+Imagem profissional da psicóloga em destaque.
+
+2. Principais Sinais de Que a Terapia Pode Te Ajudar
+
+Cards com ícones:
+
+Ansiedade constante
+Excesso de preocupações
+Baixa autoestima
+Insegurança
+Dificuldades nos relacionamentos
+Sobrecarga emocional
+Estresse e esgotamento
+Dificuldade em tomar decisões
+
+Texto de apoio acolhedor.
+
+3. Sobre a Psicóloga
+
+Título:
+
+"Olá, sou Rosangela Santos"
+
+Texto institucional:
+
+"Sou psicóloga clínica e acredito que cada pessoa possui uma história única. Meu trabalho é oferecer um espaço acolhedor, ético e seguro para que você possa compreender seus sentimentos, desenvolver autoconhecimento e construir novos caminhos para sua vida."
+
+Adicionar:
+
+CRP 01/23456
+Atendimento online
+Escuta humanizada
+Sigilo profissional
+4. Como a Terapia Pode Transformar Sua Vida
+
+Blocos com benefícios:
+
+✓ Mais equilíbrio emocional
+
+✓ Redução da ansiedade
+
+✓ Fortalecimento da autoestima
+
+✓ Relacionamentos mais saudáveis
+
+✓ Maior autoconhecimento
+
+✓ Desenvolvimento de confiança e autonomia
+
+5. Como Funciona o Atendimento
+
+Passo 1:
+Agendamento pelo WhatsApp
+
+Passo 2:
+Primeira sessão de acolhimento
+
+Passo 3:
+Definição dos objetivos terapêuticos
+
+Passo 4:
+Acompanhamento contínuo
+
+Criar linha do tempo elegante.
+
+6. Diferenciais
+
+Cards:
+
+Atendimento online para todo Brasil
+Ambiente seguro e sigiloso
+Escuta empática
+Atendimento personalizado
+Flexibilidade de horários
+7. Perguntas Frequentes
+
+FAQ em acordeão:
+
+Como funciona a terapia online?
+Quanto tempo dura cada sessão?
+Quanto tempo leva o tratamento?
+Atende convênio?
+Como agendar uma consulta?
+Preciso estar passando por uma crise para fazer terapia?
+8. Chamada Final
+
+Título:
+
+"Seu bem-estar emocional merece atenção."
+
+Texto:
+
+"Dar o primeiro passo pode parecer difícil, mas você não precisa caminhar sozinha. Estou aqui para te acompanhar nessa jornada de autoconhecimento e transformação."
+
+Botão grande:
+
+"Agendar Minha Consulta"
+
+9. Rodapé
+
+Rosangela Santos
+
+Psicóloga Clínica
+
+CRP 01/23456
+
+WhatsApp
+
+Instagram
+
+E-mail
+
+Aviso obrigatório:
+
+"Este site não oferece atendimento imediato. Em caso de emergência, procure atendimento especializado ou entre em contato com o CVV pelo telefone 188."
+
+Requisitos Técnicos
+
+Gerar:
+
+HTML5 completo
+CSS moderno
+Responsivo Mobile First
+SEO otimizado
+Performance otimizada
+Animações suaves
+Botão flutuante do WhatsApp
+Efeito glassmorphism leve
+Scroll suave
+Estrutura pronta para WordPress ou hospedagem estática
+
+Criar uma aparência premium semelhante a clínicas de psicologia de alto padrão, priorizando conversão e confiança.
