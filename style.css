@@ -752,6 +752,7 @@ p{ color: var(--ink-soft); }
 }
 
 @media (max-width: 768px){
+  .site-header { height: 66px;}
   .nav-desktop, .header-cta{ display: none; }
   .nav-toggle{ display: flex; }
   .section{ padding: 64px 0; }
